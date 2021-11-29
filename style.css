@@ -1,0 +1,67 @@
+/* Created by Rachel oyugi */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+
+body,.fa,p{
+ 
+  transition:2s;
+  
+  font-family: 'Metal Mania', cursive;
+}
+.title{
+  color:white;
+  font-family: 'Metal Mania', cursive;
+  font-size:25px;
+  position:absolute;
+  left:0;
+  right:0;
+    margin:0 auto;
+  text-align:center;
+}
+
+#author{
+  display:block;
+  text-align:right;
+ 
+}
+#button{
+  float:right;
+}
+.btn{
+ cursor:pointer; 
+ color:white;
+border-radius:5px;
+  transition:2s;
+    font-family:'Metal Mania', cursive;
+}
+#tweet-me{
+  position:absolute;
+  padding:5px 8px;
+ 
+  
+}
+#button{
+  float:right;
+   padding:5px 10px;
+}
+#text{
+  font-size:20px;
+}
+.txt{
+  font-family: 'Metal Mania', cursive;
+}
+
+#quotes-box{
+ position:absolute;
+  width:40%;
+  left:0;
+  top:30%;
+  transition: height 2s;
+  right:0;
+  margin:0 auto;
+  padding:25px 20px 10px 25px;
+  border-radius:10px;
+  background:white;
+  
+}
